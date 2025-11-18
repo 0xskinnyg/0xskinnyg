@@ -4,7 +4,7 @@ Hi! I'm Skinny! (that's my web nickname)
 <ul>
   <li>I'm a self-taught software developer who started programming when I was 12 years old.</li>
   <li>
-    My main stack is Next, Typescript, Node, Tailwind and shadcn/ui. I'm currently learning Rust and
+    My main stack is React, Next, Typescript, Node and Tailwind. I'm currently learning Rust and
     Solidity.</li>
   <li>I'm specializing in web3 dev with contributions across multiple blockchains such as Solana, Ethereum, Sei, and more.</li>
 </ul>
