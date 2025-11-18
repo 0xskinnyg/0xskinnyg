@@ -6,7 +6,7 @@ Hi! I'm Skinny! (that's my web nickname)
   <li>
     My main stack is React, Next, Typescript, Node and Tailwind. I'm currently learning Rust and
     Solidity.</li>
-  <li>I'm specializing in web3 dev with contributions across multiple blockchains such as Solana, Ethereum, Sei, and more.</li>
+  <li>I'm specializing in web3 development with contributions across multiple blockchains such as Solana, Ethereum, Sei, and more.</li>
 </ul>
 
 <div>
