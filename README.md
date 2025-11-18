@@ -2,12 +2,11 @@ Hi! I'm Skinny! (that's my web nickname)
 
 <b>A little bit about me:</b>
 <ul>
-  <li>I'm a self-taught software developer with a focus on the web3 domain.</li>
-  <li>I started programming when I was 12 years old.</li>
+  <li>I'm a self-taught software developer who started programming when I was 12 years old.</li>
   <li>
     My main stack is Next, Typescript, Node, Tailwind and shadcn/ui. I'm currently learning Rust and
     Solidity.</li>
-  <li>I'm a multi-chain dev with contributions to Solana, Ethereum, Sei, and more.</li>
+  <li>I'm specializing in web3 dev with contributions across multiple blockchains such as Solana, Ethereum, Sei, and more.</li>
 </ul>
 
 <div>
