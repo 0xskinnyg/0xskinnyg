@@ -8,25 +8,6 @@ Hi! I'm Skinny! (that's my web nickname)
     Solidity.</li>
   <li>I'm specializing in web3 development with contributions across multiple blockchains such as Solana, Ethereum, Sei, and more.</li>
 </ul>
-
-<div>
-  <a target="_blank">
-    <img height="15" align="center"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  </a>
-  <a target="_blank" align="center">
-    <img height="15" align="center"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  </a>
-  <a target="_blank">
-    <img height="15" align="center"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  </a>
-  <a target="_blank" align="center">
-    <img height="15" align="center"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  </a>
-</div>
 <br/>
 
 <table style="margin-top: 10px;">
