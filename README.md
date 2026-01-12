@@ -10,24 +10,6 @@ Hi! I'm Skinny! (that's my web nickname)
 </ul>
 <br/>
 
-<table style="margin-top: 10px;">
-  <thead></thead>
-  <tbody>
-  <tr>
-    <td>
-  <a target="_blank" href="">
-    <img height= 200 align="center"
-      src="https://github-readme-stats-tau-smoky.vercel.app/api?username=0xskinnyg&hide=stars&show_icons=true&include_all_commits=true&rank_icon=github" />
-  </a>
-  <a target="_blank" href="">
-    <img height= 200 align="center"
-      src="https://github-readme-stats-tau-smoky.vercel.app/api/top-langs?username=0xskinnyg&layout=compact&langs_count=8&card_width=320" />
-  </a>
-    </td>
-  </tr>
-
-  </tbody>
-</table>
 <b>Socials:</b>
 <ul>
   <li><a target="_blank" href="https://twitter.com/0xskinnyg_">
