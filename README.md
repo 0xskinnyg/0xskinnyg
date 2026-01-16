@@ -29,9 +29,17 @@ Hi! I'm Skinny! (that's my web nickname)
 </div>
 <br/>
 <b>Socials:</b>
-<ul>
-  <li><a target="_blank" href="https://twitter.com/0xskinnyg_">
+<div>
+<a target="_blank" href="https://twitter.com/0xskinnyg_">
   <img height="15" align="center"
     src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a></li>
-</ul>
+</a>
+<br/>
+  <div>
+  <span align="center">My website: </span>
+<a target="_blank" href="https://my-website-skinny.vercel.app/">
+  <img height="15" align="center"
+    src="https://gist.githubusercontent.com/a-jassey/2f0c0cbeac9c700b9285da739e56fa75/raw/e5afa5656a672045fbadd651d994f203ee4563b2/website.svg" />
+</a>
+  </div>
+</div>
