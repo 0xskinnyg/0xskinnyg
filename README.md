@@ -30,11 +30,13 @@ Hi! I'm Skinny! (that's my web nickname)
 <br/>
 <b>Socials:</b>
 <div>
+  <div>
+    <span>Twitter: </span>
 <a target="_blank" href="https://twitter.com/0xskinnyg_">
   <img height="15" align="center"
     src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<br/>
+  </div>
   <div>
   <span align="center">My website: </span>
 <a target="_blank" href="https://my-website-skinny.vercel.app/">
